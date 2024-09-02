@@ -8,7 +8,7 @@
 
 ![Giovanefel GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovanefel&show_icons=true&theme=merko)
 
-## tecnologias com conhecimento
+## tecnologias com conhecimento.
 
 <div style=" display: inline_block"> <br/>
 
