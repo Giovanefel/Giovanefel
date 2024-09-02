@@ -26,3 +26,5 @@
  </div>
 
 ### Cada dia buscando mais conhecimento!
+
+![Snake animation](https://github.com/Giovanefel/Giovanefel/blob/output/github-contribution-grid-snake.svg)
